@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/caneva20/configapi.svg)](https://jitpack.io/#caneva20/configapi)
+[![](https://jitpack.io/v/me.caneva20/configapi.svg)](https://jitpack.io/#me.caneva20/configapi)
 
 # Installing
 
@@ -15,7 +15,7 @@
 * Add the depency:
   ```xml
   <dependency>
-      <groupId>com.github.caneva20</groupId>
+      <groupId>me.caneva20</groupId>
       <artifactId>configapi</artifactId>
       <version>VERSION</version>
   </dependency>
